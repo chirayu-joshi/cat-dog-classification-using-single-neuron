@@ -1,0 +1,5 @@
+/dataset/test_set/cats/*
+/dataset/test_set/dogs/*
+
+/dataset/training_set/cats/*
+/dataset/training_set/dogs/*
